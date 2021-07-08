@@ -1,0 +1,15 @@
+.background{
+    background-image: url("Car\ Track\ GIF.gif");
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border-style: groove;
+    border-width: 15px;
+}
+#T1{
+    color: white;
+}
+#T2{
+    color: white;
+}
